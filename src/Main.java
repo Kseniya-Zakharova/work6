@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int initialAccount = 200;
-                int depositAmount = 500;
+        int initialAccount = 100;
+                int depositAmount = 3000;
                 int bonus = 0;
 
                 if (depositAmount > 1000) {
