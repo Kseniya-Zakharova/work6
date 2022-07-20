@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         int initialAccount = 100;
-                int depositAmount = 3000;
+                int depositAmount = 4000;
                 int bonus = 0;
 
                 if (depositAmount > 1000) {
